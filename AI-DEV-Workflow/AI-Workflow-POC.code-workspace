@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../AI-Workflow-POC"
+		},
+		{
+			"path": "../AI-PO-Workflow"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
